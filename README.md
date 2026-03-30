@@ -55,7 +55,7 @@ The model was trained using **Multiple Linear Regression** on a diverse ichthyom
 
 ```bash
 git clone https://github.com/Kaushik4636/Fish-Weight-Predictor.git
-cd fish-weight-predictor
+cd Fish-Weight-Predictor
 ```
 
 2. **Install Dependencies**
